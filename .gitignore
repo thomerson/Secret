@@ -3,3 +3,10 @@
 ################################################################################
 
 /Thomerson.Secret/.vs/Thomerson.Secret/v16
+/Thomerson.Secret/bin/Debug
+/Thomerson.Secret/obj/Debug
+/Thomerson.Secret/packages
+/Thomerson.Secret.Bisness/bin/Debug
+/Thomerson.Secret.Bisness/obj/Debug
+/Thomerson.Secret.Model/bin/Debug
+/Thomerson.Secret.Model/obj/Debug
