@@ -10,6 +10,7 @@ namespace Thomerson.Secret
         private FmUserEdit()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.Secret;
         }
 
         private string Id { get; set; }

@@ -11,6 +11,7 @@ namespace Thomerson.Secret
         public FmRegister()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.Secret;
             Init();
         }
 

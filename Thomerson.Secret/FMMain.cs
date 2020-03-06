@@ -10,6 +10,7 @@ namespace Thomerson.Secret
         public FMMain()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.Secret;
             Init();
         }
 
